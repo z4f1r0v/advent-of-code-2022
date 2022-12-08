@@ -1,0 +1,14 @@
+### Scala ###
+target/
+project/project/
+
+### Metals ###
+.metals/
+.bloop/
+project/**/metals.sbt
+
+### VS Code ###
+.vscode
+
+### Mac ###
+.DS_Store

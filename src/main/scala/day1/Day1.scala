@@ -19,4 +19,3 @@ def myApp =
 
   println(s"Answer to part 1: ${maxCals.last}")
   println(s"Answer to part 2: ${maxCals.takeRight(3).sum}")
-
